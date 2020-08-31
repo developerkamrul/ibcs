@@ -1,0 +1,90 @@
+.primary__color {
+  color: #ff701b;
+}
+
+.top__bar {
+  border-bottom: 1px gainsboro solid;
+}
+
+/* navbar section  */
+
+.my__nav {
+  background-color: #ffffff;
+}
+
+.hover__effect--nav:hover {
+  color: #ff701b !important;
+}
+
+.nav__search--input {
+  height: 25px;
+  border: none;
+  background-color: #eeeeee;
+}
+.nav__search--btn {
+  border: none;
+  background-color: #eeeeee;
+}
+
+/* hero section  */
+
+.hero__section {
+  background: linear-gradient(to right, #eae9ee 60%, transparent),
+    url('../images/main_bg1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+.hero__section--text {
+  position: relative;
+  padding-top: 200px;
+}
+
+/* background  */
+.bg__wraper {
+  background-color: #f8f8fa;
+}
+
+/* ne arrival section  */
+
+.new__arrival--section {
+  padding-top: 100px;
+  padding-bottom: 60px;
+}
+
+/* card img  */
+.img__size {
+  height: 320px;
+}
+
+.card {
+  border: none !important;
+}
+
+/* offer section  */
+
+.offer__sale--section {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+/* best sale sectionn  */
+
+.best__sale--img {
+  margin-top: 50px;
+}
+
+/* footer  */
+.bottom {
+  height: 100px;
+  background-color: #eeeeee;
+}
+
+/* media query  */
+
+@media (max-width: 576px) {
+  .offer__sale--section {
+    text-align: center !important;
+  }
+}
