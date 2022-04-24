@@ -2,4 +2,4 @@
 psd to html project.. winter shop
    
    
-   # https://itiskamrul.github.io/ibcs/
+   # https://developerkamrul.github.io/ibcs/
